@@ -115,6 +115,7 @@ Cette organisation permet une évolution facile du jeu (nouvelles salles, énigm
 ## 🖼️ Captures d’écran du jeu
 
 ## 🖼️ Captures d’écran du jeu
+[![Forteresse](projetacol-main/images/forteresse.jpg)](projetacol-main/images/forteresse.jpg)
 
 <img src="projetacol-main/images/forteresse.jpg" width="90%" />
 
