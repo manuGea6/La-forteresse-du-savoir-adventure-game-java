@@ -112,6 +112,16 @@ Cette organisation permet une évolution facile du jeu (nouvelles salles, énigm
 
 
 ---
+## 🖼️ Captures d’écran du jeu
+
+[![Forteresse](images/forteresse.jpg)](images/forteresse.jpg)
+[![Salle](images/img197.jpg)](images/img197.jpg)
+[![Salle](images/img201.jpg)](images/img201.jpg)
+[![Étage](images/img205.jpg)](images/img205.jpg)
+[![Exploration](images/img209.jpg)](images/img209.jpg)
+[![Exploration](images/img213.jpg)](images/img213.jpg)
+[![Salle](images/img217.jpg)](images/img217.jpg)
+[![Salle](images/img221.jpg)](images/img221.jpg)
 
 ## ⚙️ Lancer le jeu
 
