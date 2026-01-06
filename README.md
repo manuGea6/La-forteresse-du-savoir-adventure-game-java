@@ -114,14 +114,33 @@ Cette organisation permet une évolution facile du jeu (nouvelles salles, énigm
 ---
 ## 🖼️ Captures d’écran du jeu
 
-[![Forteresse](images/forteresse.jpg)](images/forteresse.jpg)
-[![Salle](images/img197.jpg)](images/img197.jpg)
-[![Salle](images/img201.jpg)](images/img201.jpg)
-[![Étage](images/img205.jpg)](images/img205.jpg)
-[![Exploration](images/img209.jpg)](images/img209.jpg)
-[![Exploration](images/img213.jpg)](images/img213.jpg)
-[![Salle](images/img217.jpg)](images/img217.jpg)
-[![Salle](images/img221.jpg)](images/img221.jpg)
+## 🖼️ Captures d’écran du jeu
+
+<img src="projetacol-main/images/forteresse.jpg" width="90%" />
+
+<img src="projetacol-main/images/img197.jpg" width="45%" />
+<img src="projetacol-main/images/img201.jpg" width="45%" />
+
+<img src="projetacol-main/images/img205.jpg" width="45%" />
+<img src="projetacol-main/images/img209.jpg" width="45%" />
+
+<img src="projetacol-main/images/img213.jpg" width="45%" />
+<img src="projetacol-main/images/img217.jpg" width="45%" />
+
+<img src="projetacol-main/images/img221.jpg" width="45%" />
+<img src="projetacol-main/images/img225.jpg" width="45%" />
+
+<img src="projetacol-main/images/img229.jpg" width="45%" />
+<img src="projetacol-main/images/img234.jpg" width="45%" />
+
+<img src="projetacol-main/images/img238.jpg" width="45%" />
+<img src="projetacol-main/images/img242.jpg" width="45%" />
+
+<img src="projetacol-main/images/img246.jpg" width="45%" />
+<img src="projetacol-main/images/img250.jpg" width="45%" />
+
+<img src="projetacol-main/images/img254.jpg" width="45%" />
+
 
 ## ⚙️ Lancer le jeu
 
