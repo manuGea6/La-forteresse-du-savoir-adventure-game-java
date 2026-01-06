@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99c089ca-a25e-4762-bc19-333bf6ca0b43" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Modele/Cle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Modele/CleUSB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Modele/DisqueDur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Modele/Etage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Modele/GardienDEtage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Modele/MaitreDeSalle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Modele/Objet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Modele/PersonnagePrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Modele/PersonnageSecondaire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Modele/Proposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Modele/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Modele/Salle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;tondendj&quot;,
+      &quot;fullname&quot;: &quot;Junior Gael Tonde Ndebia&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://gitlab.ensimag.fr/tondendj/projetacol.git&quot;,
+    &quot;second&quot;: &quot;12881835-db6a-423d-82b0-f6d18fc43644&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+=======
+  &lt;component name=&quot;FileTemplateManagerImpl&quot;&gt;
+    &lt;option name=&quot;RECENT_TEMPLATES&quot;&gt;
+      &lt;list&gt;
+        &lt;option value=&quot;Class&quot; /&gt;
+      &lt;/list&gt;
+    &lt;/option&gt;
+  &lt;/component&gt;
+  &lt;component name=&quot;Git.Settings&quot;&gt;
+    &lt;option name=&quot;RECENT_GIT_ROOT_PATH&quot; value=&quot;C:/Users/user/Desktop/projetACOL&quot; /&gt;
+  &lt;/component&gt;
+  &lt;component name=&quot;ProjectColorInfo&quot;&gt;&lt;![CDATA[{
+  &quot;associatedIndex&quot;: 7
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 87b07088a76395d50b00ccb6ae02738f840cd030
+}</component>
+  <component name="ProjectId" id="2v8EMo00Kp1R09sFqHWj8MiMe1I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "Merging main"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+    &gt;&gt;&gt;&gt;&gt;&gt;&gt; 87b07088a76395d50b00ccb6ae02738f840cd030
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8ea55f7-f746-4ea3-9599-1ca14f98a183" name="Changes" comment="" />
+      <created>1743518259572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743518259572</updated>
+      <workItem from="1743522263394" duration="1510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    &gt;&gt;&gt;&gt;&gt;&gt;&gt; 87b07088a76395d50b00ccb6ae02738f840cd030
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
